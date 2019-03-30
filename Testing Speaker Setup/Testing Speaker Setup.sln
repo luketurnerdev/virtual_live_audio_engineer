@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing Speaker Setup", "Testing Speaker Setup.csproj", "{17CB2354-0E24-2DC4-5F8C-F4C8F35BF94F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing Speaker Setup.Plugins", "Testing Speaker Setup.Plugins.csproj", "{D8FA8769-C572-A111-779B-C2B53D0A3D8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing Speaker Setup.Editor.Plugins", "Testing Speaker Setup.Editor.Plugins.csproj", "{EC6356B9-0DB1-CDB6-61C8-C677F86FA607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing Speaker Setup.Editor", "Testing Speaker Setup.Editor.csproj", "{FCEF8329-7E2B-50E8-8174-1FA980F37306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17CB2354-0E24-2DC4-5F8C-F4C8F35BF94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CB2354-0E24-2DC4-5F8C-F4C8F35BF94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CB2354-0E24-2DC4-5F8C-F4C8F35BF94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CB2354-0E24-2DC4-5F8C-F4C8F35BF94F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8FA8769-C572-A111-779B-C2B53D0A3D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FA8769-C572-A111-779B-C2B53D0A3D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FA8769-C572-A111-779B-C2B53D0A3D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FA8769-C572-A111-779B-C2B53D0A3D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6356B9-0DB1-CDB6-61C8-C677F86FA607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6356B9-0DB1-CDB6-61C8-C677F86FA607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6356B9-0DB1-CDB6-61C8-C677F86FA607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6356B9-0DB1-CDB6-61C8-C677F86FA607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCEF8329-7E2B-50E8-8174-1FA980F37306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEF8329-7E2B-50E8-8174-1FA980F37306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEF8329-7E2B-50E8-8174-1FA980F37306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEF8329-7E2B-50E8-8174-1FA980F37306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
